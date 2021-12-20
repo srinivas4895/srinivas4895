@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srinivas4895
+- 👋 Hi, I’m @srinivas
 - 👀 I’m interested in python, Ruby, SQL, No SQL
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on python, Ruby and SQL
